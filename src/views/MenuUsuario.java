@@ -28,6 +28,7 @@ public class MenuUsuario extends JFrame {
 	int xMouse, yMouse;
 	private JLabel labelExit;
 	private JLabel labelRegistro;
+	
 
 	/**
 	 * Launch the application.
